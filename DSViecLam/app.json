@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DSViecLam",
-    "slug": "DSViecLam",
+    "name": "demo-git",
+    "slug": "demo-git",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
